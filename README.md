@@ -6,5 +6,3 @@ www.oliverbarbeau.com
 **Database:** SQL, MySQL, MongoDB, Firebase
 **Data Science:** TensorFlow, scikit-learn, Pandas, NumPy
 **Tools:** Git, Unix, REST APIs, SCRUM
-
-**Discord:** oliverinspace
