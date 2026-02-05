@@ -1,4 +1,4 @@
-I studied Computer Science at the University of Minnesota while spending a decade in Minneapolis fine dining and restaurant system management.
+www.oliverbarbeau.com
 
 **Languages:** Python, TypeScript, JavaScript, C/C++, Java, Lua, OCaml
 **Frontend:** React, Next.js, Tailwind CSS
