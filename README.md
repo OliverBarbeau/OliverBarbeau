@@ -1,5 +1,3 @@
-### Hey, I'm Oliver
-
 I studied Computer Science at the University of Minnesota while spending a decade in Minneapolis fine dining and restaurant system management.
 
 **Languages:** Python, TypeScript, JavaScript, C/C++, Java, Lua, OCaml
