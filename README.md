@@ -6,3 +6,5 @@ I studied Computer Science at the University of Minnesota while spending a decad
 **Database:** SQL, MySQL, MongoDB, Firebase
 **Data Science:** TensorFlow, scikit-learn, Pandas, NumPy
 **Tools:** Git, Unix, REST APIs, SCRUM
+
+**Discord:** oliverinspace
