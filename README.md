@@ -1,4 +1,4 @@
-www.oliverbarbeau.com
+www.barbeau.dev
 www.golemtek.com
 
 **Languages:** Python, TypeScript, JavaScript, C/C++, Java, Lua, OCaml
